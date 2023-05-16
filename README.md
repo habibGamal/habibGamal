@@ -1,5 +1,9 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">, I'm Habib Gamal</h1>
-<h3 align="center">Student at Suiz University🌟.</h3>
+<h3 align="center">I'm frontend developer with 5 years of experience🌟.</h3>
+<h4 align="center">I have very good experience with backend development ( mainly Laravel ) to make things compatable with front-end</h4>
+<h4 align="center">Also I'm using flutter to make mobile apps</h4>
+
+<a href="#certified-by-udacity--fwd" align="center">Certified By Udacity & FWD</a>
 
 <h3 align="center">Visit my Website Here.</h3>
 <h4 align="center">https://portfolio-habib.vercel.app/</h4>
@@ -37,7 +41,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
 ## Machine Learning
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+In progress (Comming soon...)
 
 <br>
 
@@ -64,4 +68,6 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
       
+# Certified By Udacity & FWD
+
 [![An image of @adampw's Holopin badges, which is a link to view their full Holopin profile](https://github.com/habibGamal/habibGamal/blob/master/Screenshot%202023-05-16%20232630.jpg)](https://github.com/habibGamal/habibGamal/blob/master/Screenshot%202023-05-16%20232630.jpg)
